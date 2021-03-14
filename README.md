@@ -1,6 +1,6 @@
-# Devhaus Academy #4
+# Devhaus Leipzig Academy
 
-Interim until we can move into the real one
+Disclaimer: This is just a quick interim website, until we can move into the real learning plattform
 
 ## Quicklinks
 
@@ -8,8 +8,10 @@ Interim until we can move into the real one
 <div><a href="https://us02web.zoom.us/j/8611564454?pwd=aFJJVzU1bzdpVTMzTDA2eTJ6cmJpQT09">Zoom</a></div>
 <div><a href="https://discord.com/channels/665641579368677395/819211634865733643">Discord</a></div>
 
+## Week 1: Developer Toolbelt
+
 ### Day 1
 
-- [Learning Path](lessons/learning-path.md)
-- [Setup](lessons/setup.md)
-- <a href="resources/Personal_Vision.pdf">Personal Vision - Journaling Exercise</a>
+- <a href="https://reveal-viewer.netlify.app/?md=https://devhaus-academy.netlify.app/slides/devhaus-methodology.md">Devhaus Methodology</a>
+- [Setup Checklist](lessons/setup.md)
+- [Personal Vision](lessons/personal-vision.md)
