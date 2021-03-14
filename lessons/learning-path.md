@@ -1,3 +1,0 @@
-# Learning Path
-
-[slides]()

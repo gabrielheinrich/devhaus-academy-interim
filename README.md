@@ -12,6 +12,6 @@ Disclaimer: This is just a quick interim website, until we can move into the rea
 
 ### Day 1
 
-- <a href="https://reveal-viewer.netlify.app/?md=https://devhaus-academy.netlify.app/slides/devhaus-methodology.md">Devhaus Methodology</a>
+- <a href="https://reveal-viewer.netlify.app/?md=https://raw.githubusercontent.com/gabrielheinrich/devhaus-academy-interim/master/slides/devhaus-methodology.md">Devhaus Methodology</a>
 - [Setup Checklist](lessons/setup.md)
 - [Personal Vision](lessons/personal-vision.md)

@@ -38,7 +38,7 @@
 
 ## Journaling
 
-- Quater-Yearly
+- Quarter-Yearly
 - Weekly
 - Daily : Morning & Evening
 
@@ -155,29 +155,3 @@ Bonus: For each try to remember one extra aspect
 3. Retrieval Practice
 
 ---
-
-## Setup
-
-### Learning Journal
-
-- Kickoff Writing Exercise
-
-### Setup
-
-#### Accounts & Bookmarks
-
-- github
-- discord
-- fillip
-- google calendar
-- Zoom Link
-
-#### Software
-
-- VS Code
-- Google Chrome
-- English Keyboard Layout
-
-#### VPS
-
-- IP + ssh key
