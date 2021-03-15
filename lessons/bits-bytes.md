@@ -67,7 +67,7 @@ also called **binary**
 - What is 11110000 (binary) in hexadecimal?
 - What is 110101 (binary) in decimal?
 
-### Exercise
+### Conversion Exercise
 
 Fill in the blanks
 

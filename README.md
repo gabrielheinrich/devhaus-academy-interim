@@ -4,11 +4,18 @@ Disclaimer: This is just a quick interim website, until we can move into the rea
 
 ## Quicklinks
 
-<div><a href="https://calendar.google.com/calendar/embed?src=b1tvckj2cnj6jn52d7nppa5rm4%40group.calendar.google.com&ctz=Europe%2FBerlin">Google Calendar</a></div>
-<div><a href="https://us02web.zoom.us/j/8611564454?pwd=aFJJVzU1bzdpVTMzTDA2eTJ6cmJpQT09">Zoom</a></div>
-<div><a href="https://discord.com/channels/665641579368677395/819211634865733643">Discord</a></div>
+- [Timetable](https://calendar.google.com/calendar/embed?src=b1tvckj2cnj6jn52d7nppa5rm4%40group.calendar.google.com&ctz=Europe%2FBerlin)
+- [Zoom](https://us02web.zoom.us/j/8611564454?pwd=aFJJVzU1bzdpVTMzTDA2eTJ6cmJpQT09)
+- [Discord](https://discord.com/channels/665641579368677395/819211634865733643)
+- [Journaling Prompts](journal/journal.md)
 
 ## Week 1: Developer Toolbelt
+
+Goal: Learn the mechanics of software development including:
+
+- How to write source code
+- How to control a computer through a command line
+- How to store and organize files using git and collaboarte on them
 
 ### Day 1
 
