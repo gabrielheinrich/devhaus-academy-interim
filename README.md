@@ -15,3 +15,8 @@ Disclaimer: This is just a quick interim website, until we can move into the rea
 - <a href="https://reveal-viewer.netlify.app/?md=https://raw.githubusercontent.com/gabrielheinrich/devhaus-academy-interim/master/slides/devhaus-methodology.md">Devhaus Methodology</a>
 - [Setup Checklist](lessons/setup.md)
 - [Personal Vision](lessons/personal-vision.md)
+
+### Day 2
+
+- [Bits & Bytes](lessons/bits-bytes.md)
+- [Computer Hardware](lessons/computer.md)
