@@ -1,4 +1,4 @@
-# Setup Guide
+# Setup Checklist
 
 ## Accounts & Bookmarks
 
@@ -15,6 +15,7 @@
 ## Keboard Layout
 
 - We highly recommend getting used to an american / british keyboard layout for coding.
+- Setup Zoom Keyboard Shortcuts for: Mute, Screenshare, Raise Hand
 
 ## SSH Key
 

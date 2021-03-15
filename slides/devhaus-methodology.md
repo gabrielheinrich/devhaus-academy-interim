@@ -1,6 +1,6 @@
 ##### Welcome to Devhaus Academy
 
-# 3 Learning Principles
+# 3 Learning Concepts
 
 ---
 
