@@ -1,6 +1,6 @@
 ##### Welcome to Devhaus Academy
 
-# 3 Learning Concepts
+# 3 Learning Principles
 
 ---
 
@@ -144,7 +144,7 @@ Quizzes, Retrieval Taking, Katas, Brain Dumps, 2 Things...
 
 ### Retrieval Exercise
 
-Try to recall the 3 learning concepts
+Try to recall the 3 learning principles
 
 Bonus: For each try to remember one extra aspect
 
