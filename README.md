@@ -27,3 +27,5 @@ Goal: Learn the mechanics of software development including:
 
 - [Bits & Bytes](lessons/bits-bytes.md)
 - [Computer Hardware](lessons/computer.md)
+- [Visual Studio Code](lessons/vscode.md)
+- [Markdown](lessons/markdown.md)
