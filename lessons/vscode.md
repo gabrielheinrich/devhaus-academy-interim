@@ -37,7 +37,7 @@ For manual testing and to debug your application
 - Status Bar (very bottom)
   - Language Mode
   - Encoding
-- Command Palette (overlay popup)
+- Command Palette (overlay popup) (Open: Ctrl+Shift+P)
 
 ## Keyboard vs Mouse
 
@@ -48,7 +48,6 @@ using the mouse?
 
 When is it better to use the mouse and when is it better to use
 the keyboard? 
-
 
 ## Keyboard Shortcuts
 
@@ -67,12 +66,17 @@ trigger a command, e.g. Ctrl+K Ctrl+O to open a directory from your file explore
 
 ## Opening Folders
 
-In contrast to other programs like Microsoft Word, VS Code is not made to open
-individual files. Instead it is meant to open repositories, i.e. an entire
-directory/folder.
+In contrast to other programs like Microsoft Word, VS Code is not made to open individual files. Instead it is meant to open repositories, i.e. an entire directory/folder.
 
-It's really important to keep track of the currently opened folder. 
-You can always quickly open new VS Code windows from your Terminal.
+Naming Confusion: **Folder vs. Directory vs. Repository**
+
+A **directory** is a location in a file system, like /bin or /home. 
+A **repository** is a directory that is abunch of version controlled files.
+A **folder** is..well, any folder.
+
+You will often hear those terms interchangeably, and they basically mean the same thing. Usually a developers directories are version controlled. Thus, the term **repository** or short **repo** is used most often.
+
+You can always quickly open new VS Code windows with different folders from your Terminal.
 
 ## Summary
 
@@ -99,7 +103,8 @@ One way to do so is to create a subdirectory in your user home directory called
 - Use the command palette to change your color scheme. For more customization, check out this [list of themes](https://dev.to/thegeoffstevens/50-vs-code-themes-for-2020-45cc)
 - Install the prettier code extension
 - Create a Developer folder in your home directory
-- Create a new repository called `developer-wiki`, open it in VS code and add some files, e.g. .txt for simple text files or .md if you already know Markdown
+- Create a new repository called `developer-wiki`, open it in VS code and add some files, e.g. .txt for simple text files or .md if you already know Markdown 
+  - If you are already familiad with the Command Line, create the folder and files using the `mkdir` and `touch` commands
 (- Create a dock / task bar entry for VS Code, so you can open it quickly.)
 - Change the default tab size in VSCode to 2 spaces through the **Workspace Settings** panel.
 - Open **Workspace Settings as JSON** using the command palette and add this line to
@@ -139,3 +144,10 @@ One way to do so is to create a subdirectory in your user home directory called
   developer wiki, where you keep track of your favorite vscode extensions.
 - Train touch typing with [Tipp10](https://www.tipp10.com/de/) (highly recommended by your instructor Sven) or [Typing Club](https://www.typingclub.com/)
 - Add more notes in your developer wiki. Create individual files for each topic like *extensions*, *settings*, *shortcuts*
+
+
+## Resources
+
+[Windows Cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+[macOS Cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+[Linux Cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)

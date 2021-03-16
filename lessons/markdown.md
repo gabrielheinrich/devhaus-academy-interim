@@ -77,6 +77,7 @@ document.
 - Widely used for online content (i.e. blogs) and documentation / technical writing.
 - _Superset_ of HTML
 - File Extension: `.md`
+- Flavors: "dialects" of markdown that extend the range of different elements you can use, e.g. with Stackoverflow flavored Markdown you can write spoilers like this `>! This is a spoiler` 
 
 ### Example
 
