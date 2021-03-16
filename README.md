@@ -15,7 +15,7 @@ Goal: Learn the mechanics of software development including:
 
 - How to write source code
 - How to control a computer through a command line
-- How to store and organize files using git and collaboarte on them
+- How to store and organize files using git and collaborate on them
 
 ### Day 1
 
