@@ -16,10 +16,8 @@ Connecting to your personal docker container. A private space to store document 
 
 Alternatively you can reach your container by typing `ssh user@[your-name].devhausleipzig.de` into the command line
 
-Perform the Developer Routine shown in the image. 
+Perform the Developer Routine shown in the slide. 
 If you already have a `Developer` folder, create a `dev` folder instead. This is just for demonstration purpose.
-
-[Developer Routine](https://github.com/gabrielheinrich/devhaus-academy-interim/blob/master/resources/cl_routine1.png)
 
 ## Walkthrough 2 - Interacting with VS Code through your Command Line
 
