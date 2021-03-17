@@ -50,16 +50,16 @@ Read the manual for the cal command and identify the needed flags/options to fin
 - If you are inside vi/vim (a command line tool which is a minimalistic text editor) hit the **q** (quit) key to exit it
 
 ## Command Examples
-- `mkdir`: create a new directory
-- `touch`: create a new file
+- `mkdir [new-directory-name]`: create a new directory
+- `touch [new-file-name]`: create a new file
 - `ls`: lists files and folders of directory you are currently in
 - `pwd`: prints the path from your home directory up until the directory you are in
-- `cd`: change directory
+- `cd [location]`: change directory
 - `cat [filename]`: print file content to your command line (no kittens involved :( )
 - `clear`: clears the command line
 - `exit`: closes terminal
 - `which [name-of-command]`: shows you where source of that command 
-- `man [name-of-command]`: shows you the manual
+- `man [name-of-command]`: shows you the manual of a command
 
 **Bonus Command**: 
 
