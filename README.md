@@ -29,3 +29,7 @@ Goal: Learn the mechanics of software development including:
 - [Computer Hardware](lessons/computer.md)
 - [Visual Studio Code](lessons/vscode.md)
 - [Markdown](lessons/markdown.md)
+
+### Day 3
+
+- [Command Line](lessons/cl.md)
