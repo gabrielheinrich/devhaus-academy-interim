@@ -19,7 +19,7 @@ Alternatively you can reach your container by typing `ssh user@[your-name].devha
 Perform the Developer Routine shown in the image. 
 If you already have a `Developer` folder, create a `dev` folder instead. This is just for demonstration purpose.
 
-![Developer Routine](https://github.com/gabrielheinrich/devhaus-academy-interim/blob/master/resources/cl_routine1.png)
+[Developer Routine](https://github.com/gabrielheinrich/devhaus-academy-interim/blob/master/resources/cl_routine1.png)
 
 ## Walkthrough 2 - Interacting with VS Code through your Command Line
 
