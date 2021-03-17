@@ -71,4 +71,4 @@ Read the manual for the cal command and identify the needed flags/options to fin
 - check out this [course](https://overthewire.org/wargames/bandit/) about the command line
 
 ## Cheat Sheet
-- [Command Line Cheat Sheet](resources/command-line-cheat-sheet.png)
+- [Command Line Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
