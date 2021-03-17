@@ -37,7 +37,7 @@ For manual testing and to debug your application
 - Status Bar (very bottom)
   - Language Mode
   - Encoding
-- Command Palette (overlay popup) (Open: Ctrl+Shift+P)
+- Command Palette (overlay popup) (Win: Ctrl+Shift+P, Linux: Cmd+Shift+P)
 
 ## Keyboard vs Mouse
 
@@ -104,7 +104,7 @@ One way to do so is to create a subdirectory in your user home directory called
 - Install the prettier code extension
 - Create a Developer folder in your home directory
 - Create a new repository called `developer-wiki`, open it in VS code and add some files, e.g. .txt for simple text files or .md if you already know Markdown 
-  - If you are already familiad with the Command Line, create the folder and files using the `mkdir` and `touch` commands
+  - If you are already familiar with the Command Line, create the folder and files using the `mkdir` and `touch` commands
 (- Create a dock / task bar entry for VS Code, so you can open it quickly.)
 - Change the default tab size in VSCode to 2 spaces through the **Workspace Settings** panel.
 - Open **Workspace Settings as JSON** using the command palette and add this line to
@@ -148,6 +148,6 @@ One way to do so is to create a subdirectory in your user home directory called
 
 ## Resources
 
-[Windows Cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
-[macOS Cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
-[Linux Cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+- [Windows Cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+- [macOS Cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+- [Linux Cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
