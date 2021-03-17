@@ -67,7 +67,8 @@ Read the manual for the cal command and identify the needed flags/options to fin
 
 ## Open Exercises
 - Play a command line game like [CLMystery](https://github.com/veltman/clmystery) or [Terminus](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
-
+- practice advanced actions on the command line with [Bandit](https://overthewire.org/wargames/bandit/)
+- check out this [course](https://overthewire.org/wargames/bandit/) about the command line
 
 ## Cheat Sheet
 - [Command Line Cheat Sheet](resources/command-line-cheat-sheet.png)
