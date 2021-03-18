@@ -16,8 +16,10 @@ Connecting to your personal docker container. A private space to store document 
 
 Alternatively you can reach your container by typing `ssh user@[your-name].devhausleipzig.de` into the command line
 
-Perform the Developer Routine shown in the slide. 
+Perform the Developer Routine shown in the image. 
 If you already have a `Developer` folder, create a `dev` folder instead. This is just for demonstration purpose.
+
+<img src="../resources/cl_routine1.png" />
 
 ## Walkthrough 2 - Interacting with VS Code through your Command Line
 
@@ -65,7 +67,8 @@ Read the manual for the cal command and identify the needed flags/options to fin
 
 ## Open Exercises
 - Play a command line game like [CLMystery](https://github.com/veltman/clmystery) or [Terminus](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
-
+- practice advanced actions on the command line with [Bandit](https://overthewire.org/wargames/bandit/)
+- check out this [course](https://overthewire.org/wargames/bandit/) about the command line
 
 ## Cheat Sheet
-- [Command Line Cheat Sheet](resources/command-line-cheat-sheet.png)
+- [Command Line Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)

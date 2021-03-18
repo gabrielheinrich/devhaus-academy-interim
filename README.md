@@ -33,3 +33,7 @@ Goal: Learn the mechanics of software development including:
 ### Day 3
 
 - [Command Line](lessons/cl.md)
+
+### Day 4
+
+[Command Line Hacks](lessons/cl-exercises.md)
