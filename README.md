@@ -36,4 +36,8 @@ Goal: Learn the mechanics of software development including:
 
 ### Day 4
 
-[Command Line Hacks](lessons/cl-exercises.md)
+- [Command Line Hacks](lessons/cl-exercises.md)
+
+### Day 5
+
+- [Git Merge](lessons/git-merge.md)

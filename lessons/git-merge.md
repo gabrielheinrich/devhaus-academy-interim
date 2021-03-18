@@ -1,4 +1,4 @@
-# Git Procedures
+# Git Merge
 
 ## Merge Exercise
 
