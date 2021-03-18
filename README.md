@@ -41,3 +41,4 @@ Goal: Learn the mechanics of software development including:
 ### Day 5
 
 - [Git Merge](lessons/git-merge.md)
+- <a href="https://github.com/gabrielheinrich/big-merger">Merge Team Challenge Repository</a>
