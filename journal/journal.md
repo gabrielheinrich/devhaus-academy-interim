@@ -20,3 +20,13 @@ Disclaimer: These are just inspirations that have proven to be effective, feel f
 - One thing you are grateful for.
 - One thing you did to help someone else today.
 - What and how could you imporve tomorrow?
+
+## End of Week
+
+- Draw a grid of all five week days Monday to Friday
+- Try to remember what you learned on each day and write it down in the corresponding grid block
+- What was the most surprising/interesting, the most useful and the most difficult thing you learned this week?
+- From which days do you remember the most? On which days did you have the most energy? Why?
+- Come up with an exercise you could do to practice the essential parts of this week. For example a specific retrieval prompt, replaying a task you did this week or a small project... Add it to your review list for the weekend.
+- Is there an area/topic you feel you missed? Strategize around filling in the gap during the weekend.
+- Think about the past weeks. Which part do you feel you have forgotton the most about? Add it to your review list for the weekend.
