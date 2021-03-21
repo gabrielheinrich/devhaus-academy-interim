@@ -9,6 +9,21 @@ Disclaimer: This is just a quick interim website, until we can move into the rea
 - [Discord](https://discord.com/channels/665641579368677395/819211634865733643)
 - [Journaling Prompts](journal/journal.md)
 
+## Week 2: Typescript Programming
+
+Goals:
+
+- Know the syntax and grammar of Javascript
+- Know how to execute Javascript code
+- Know how to compile Typescript to Javsacript
+- Know and understand the different data types in Javascript
+- Understand and write simple functions
+
+### Day 1
+
+- [Hello World](lessons/hello-world.md)
+- [Data: Modelling the World](lessons/data.md)
+
 ## Week 1: Developer Toolbelt
 
 Goal: Learn the mechanics of software development including:
