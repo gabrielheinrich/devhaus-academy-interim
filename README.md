@@ -22,6 +22,10 @@ Goals:
 ### Day 1
 
 - [Hello World](lessons/hello-world.md)
+
+### Day 2
+
+- [Hello World Guide](lessons/hello-world-guide.md)
 - [Data: Modelling the World](lessons/data.md)
 
 ## Week 1: Developer Toolbelt
