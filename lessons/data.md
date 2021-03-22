@@ -79,6 +79,33 @@ undefined;
 }
 ```
 
+## Exercise
+
+1. What types are these literals
+
+```
+true
+"true"
+undefined
+"undefined"
+1
+["A", "B", "C"]
+["Hello World"]
+{message: 'hello', recipient: "rick"}
+NaN
+[[[], {}, []]]
+```
+
+2. Write two (if possible) example literals for each of these datatypes
+
+- Boolean
+- Number
+- String
+- Null
+- Undefined
+- Array
+- Object
+
 ## JSON and Javascript
 
 **JSON** (Javascript Object Notation) is a text format, which is used to store
