@@ -51,6 +51,35 @@ In script mode you will have to wrap an expression like `new Date()` in
 `console.log(new Date())` for it to be printed.
 
 ```js
+// Only Works in browser
+alert("Stay alert!");
+document.innerHTML = "";
+document.URL;
+document.charset;
+document.title;
+document.title = "Where am I?";
+document.write("I wrote this");
+document;
+document.write;
+doument.write("");
+
+window.visualViewport;
+window;
+
+document.querySelector("body");
+document.querySelector("h1");
+
+document.body.innerHTML = "<h1>Heading 1</h1>";
+document.querySelector("h1");
+
+document.appendChild(document.createElement("h1"));
+const heading = document.querySelector("h1");
+
+heading.textContent = "New Heading!!!";
+document.querySelector("h1").textContent = "This works???";
+const name = prompt("What's your name");
+console.log(name);
+
 // Works both in node and in the browser
 console.log("Hello World");
 
@@ -83,35 +112,6 @@ Math.random();
 Math.round(0.65);
 Math.round(Math.random());
 parseInt("1011", 2);
-
-// Only Works in browser
-alert("Stay alert!");
-document.innerHTML = "";
-document.URL;
-document.charset;
-document.title;
-document.title = "Where am I?";
-document.write("I wrote this");
-document;
-document.write;
-doument.write("");
-
-window.visualViewport;
-window;
-
-document.querySelector("body");
-document.querySelector("h1");
-
-document.body.innerHTML = "<h1>Heading 1</h1>";
-document.querySelector("h1");
-
-document.appendChild(document.createElement("h1"));
-const heading = document.querySelector("h1");
-
-heading.textContent = "New Heading!!!";
-document.querySelector("h1").textContent = "This works???";
-const name = prompt("What's your name");
-console.log(name);
 
 // Fancy stuff
 Math.round(Math.random()) ? "Heads" : "Tails";
