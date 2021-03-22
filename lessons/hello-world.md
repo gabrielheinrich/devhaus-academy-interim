@@ -53,7 +53,7 @@ In script mode you will have to wrap an expression like `new Date()` in
 ```js
 // Only Works in browser
 alert("Stay alert!");
-document.innerHTML = "";
+document.body.innerHTML = "";
 document.URL;
 document.charset;
 document.title;
