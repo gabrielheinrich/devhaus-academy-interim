@@ -231,7 +231,6 @@ that is able to represent the state of the application.
 - Bank Account
 - Monopoly
 - Minecraft
-- Zoom Meeting
 - Sims Game
 - Mario Cart
 - Browser Bookmarks
@@ -239,3 +238,97 @@ that is able to represent the state of the application.
 - Youtube
 - Discord
 - Git Repository
+
+### Examples
+
+#### Color
+
+```ts
+// Colors
+
+// color as object
+
+const yellowAsObject = {
+  blue: 0,
+  green: 255, // or 0xff
+  red: 255, // or 0xff
+};
+
+// color as array
+const yellowAsArray = [255, 255, 0];
+
+const darkYelloAsArray = [127.5, 127.5, 0];
+
+// color as string
+
+const yellowAsString = "yellow";
+const yellowAsString2 = "#ffff00";
+
+// color as number
+const yellowAsNumber = 0xffff00;
+```
+
+#### Tic Tac Toe
+
+```ts
+const ticTacToeLukas = [
+  [false, true, true],
+  [false, null, null],
+  [false, null, true],
+];
+
+const ticTacToeBelen = [
+  ["B", "A", "A"],
+  ["B", 0, 0],
+  ["B", 0, "A"],
+];
+
+const ticTacToeAsObject = {
+  "0:0": false,
+  "0:1": true,
+  "0:2": true,
+  "1:0": false,
+  "1:1": null,
+  "1:2": null,
+  "2:0": false,
+  "2:1": null,
+  "2:2": true,
+};
+
+const ticTacToeField = ["O", "X", "X", "O", "", "", "O", "", "X"];
+const ticTacToeOptimized = "OXXO  O X";
+
+const ticTacToeGame = {
+  field: ["O", "X", "X", "O", "", "", "O", "", "X"],
+  players: {
+    O: {
+      name: "Lukas",
+      score: 283,
+    },
+    X: {
+      name: "Altynai",
+      score: 285,
+    },
+  },
+  numRoundsPlayed: 568,
+};
+
+const ticTacToeEvents = [
+  {
+    player: "O",
+    action: "crossedField",
+    field: [0, 2],
+  },
+  {
+    player: "X",
+    action: "crossedField",
+    field: [0, 1],
+  },
+  {
+    player: "O",
+    action: "crossedField",
+    field: [0, 0],
+  },
+  ///...
+];
+```
