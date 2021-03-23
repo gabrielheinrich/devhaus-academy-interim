@@ -1,6 +1,8 @@
 ## 1 - Bindings
 Declare variables, not war.
 
+[Exercises](https://github.com/valeriakori/variables-exercises)
+
 Variables are reusable chunks of data. They can be accessed by their identifier. The identifier should have a descriptive name. We can picture this like a box that we label and put something (value) in it.
 
 ```js
@@ -273,3 +275,12 @@ document.body.children.length;
 fruits.length; // 3
 ```
 
+### Exercise
+
+Write correct TypeScript code from these prompts:
+
+1. Declare a variable called myChildhoodBestFriend with the type string and assign it a value
+2. Declare a variable called cupsInMyCupboard and assign it a value
+  1. Oh no, you don't have all your cups in you cupboard anymore! Decrease the value by reassining a new value to cupsInMyCupboard
+3. Declare an array containing stuff you have in your drawer. Give it a descriptive name.
+4. Declare variables that would describe the state of a zoom class like we have right now. Use as many different types as you can. You can be creative and inventive!
