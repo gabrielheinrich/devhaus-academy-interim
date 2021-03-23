@@ -48,7 +48,7 @@ Then insert this in the tsconfig.json file to tell typescript which files to com
 ```json
 {
   "compilerOptions": {
-    "outputDir": "build"
+    "outDir": "build"
   },
   "files": ["src/index.ts"]
 }
@@ -66,7 +66,7 @@ This will create a file in the **build** directory called **index.js**
 ## Step 6: Run the program
 
 ```bash
-node index.js
+node build/index.js
 ```
 
 You should see **Hello World** being printed to the console.
