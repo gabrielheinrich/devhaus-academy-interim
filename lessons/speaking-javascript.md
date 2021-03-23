@@ -215,7 +215,7 @@ console.log(sentence)
 2 ** 10; // => 1024
 // Read: 2 to the power of 10
 ```
-### Reassignment
+#### Reassignment
 
 ```js
 x = 24;
@@ -223,7 +223,7 @@ x = 24;
 // or: We set x to 24.
 ```
 
-#### Compound reassignment
+##### Compound reassignment
 
 ```js
 x += 2;
@@ -239,7 +239,7 @@ x &&= true;
 // ...
 ```
 
-### 2.5 - Lookup Operator
+#### Lookup Operator
 
 ```js
 // Array
