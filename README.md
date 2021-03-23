@@ -27,6 +27,7 @@ Goals:
 
 - [Hello World Guide](lessons/hello-world-guide.md)
 - [Data: Modelling the World](lessons/data.md)
+- [Speaking JavaScript](lessons/speaking-javascript.md)
 
 ## Week 1: Developer Toolbelt
 
