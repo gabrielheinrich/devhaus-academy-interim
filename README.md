@@ -29,6 +29,10 @@ Goals:
 - [Data: Modelling the World](lessons/data.md)
 - [Speaking JavaScript](lessons/speaking-javascript.md)
 
+### Day 4
+
+- [Javascript Functions](lessons/functions.md)
+
 ## Week 1: Developer Toolbelt
 
 Goal: Learn the mechanics of software development including:
