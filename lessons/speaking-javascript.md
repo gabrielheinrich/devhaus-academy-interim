@@ -275,12 +275,24 @@ document.body.children.length;
 fruits.length; // 3
 ```
 
-### Exercise
+### Process Variables
 
-Write correct TypeScript code from these prompts:
+What if we don't want to hard code a variable but let the user decide an input? When running a programm from the command line the user can provide arguments wich we can use in our code.
 
-1. Declare a variable called myChildhoodBestFriend with the type string and assign it a value
-2. Declare a variable called cupsInMyCupboard and assign it a value
-  1. Oh no, you don't have all your cups in you cupboard anymore! Decrease the value by reassining a new value to cupsInMyCupboard
-3. Declare an array containing stuff you have in your drawer. Give it a descriptive name.
-4. Declare variables that would describe the state of a zoom class like we have right now. Use as many different types as you can. You can be creative and inventive!
+`node programm.js Tina`
+
+```js
+console.log(process.argv[0])
+// logs: /usr/local/bin/node
+// absolute pathname of the executable that started the Node.js process
+
+console.log(process.argv[1])
+// logs: /home/user/Developer/variables-exercises/index.js
+// i.e. location of the executed file
+
+console.log("Hello " + process.argv[2])
+// logs: Hello Tina
+// the actual parameter provided through the command line
+```
+
+The users variables are available starting from the index 2. A good documentation let's the user know how many parameters are expected
