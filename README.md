@@ -31,7 +31,8 @@ Goals:
 
 ### Day 4
 
-- [Javascript Functions](lessons/functions.md)
+- [JavaScript Functions](lessons/functions.md)
+- [JavaScript Katas](lessons/katas.md)
 
 ## Week 1: Developer Toolbelt
 
