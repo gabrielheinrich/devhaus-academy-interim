@@ -18,6 +18,7 @@ A cool extension that logs the value of a variable right next to it. No `node in
 - [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
 No one really recommends the glow effect, though it is fun... for a minute or two
 - Format your code regularly
+- Document your learnings
 
 Feel free to share your valuable findings, we will add them to list #sharingIsCaring #camelCaseVariablesForTheWin
 
