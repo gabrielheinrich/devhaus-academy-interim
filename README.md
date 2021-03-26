@@ -34,6 +34,10 @@ Goals:
 - [JavaScript Functions](lessons/functions.md)
 - [JavaScript Katas](lessons/katas.md)
 
+### Day 5
+
+- [Markdown Printer: import/export, split/join, map](lessons/functions-2.md)
+
 ## Week 1: Developer Toolbelt
 
 Goal: Learn the mechanics of software development including:
