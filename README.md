@@ -9,6 +9,21 @@ Disclaimer: This is just a quick interim website, until we can move into the rea
 - [Discord](https://discord.com/channels/665641579368677395/819211634865733643)
 - [Journaling Prompts](journal/journal.md)
 
+## Week 3: Typescript Programming II
+
+Goals:
+
+- Become able to solve 7 kyu Katas
+- Understand and use Array and String methods
+- Be able to write loops
+- Write your own command line tools
+
+## Day 1
+
+- [Review Katas](lessons/review-katas.md)
+- [Walkthru: JSON.parse](lessons/json-walkthru.md)
+- [Error Handling](lessons/error-handling.md)
+
 ## Week 2: Typescript Programming
 
 Goals:
