@@ -129,6 +129,7 @@ oh my, looks like I wrote it
 what was I thinking?
 
 **Overview**
+
 |Code|Character|
 | ------ | -------:|
 |\\ |	\ (backslash) |
@@ -136,7 +137,9 @@ what was I thinking?
 |\' |	' (single quote) |
 |\n |	newline |
 |\t |	tab |
+
 ---
+
 ### Operators
 
 We don't have to use a literal value to define the value of a variable. 

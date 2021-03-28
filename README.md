@@ -52,6 +52,7 @@ Goals:
 ### Day 5
 
 - [Markdown Printer: import/export, split/join, map](lessons/functions-2.md)
+- [Week 2 Summary Quiz](lessons/week2_quiz.md)
 
 ## Week 1: Developer Toolbelt
 
