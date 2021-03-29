@@ -21,6 +21,7 @@ Goals:
 ## Day 1
 
 - [Review Katas](lessons/review-katas.md)
+- [Visual Execution](lessons/visual-execution.md)
 - [Walkthru: JSON.parse](lessons/json-walkthru.md)
 - [Error Handling](lessons/error-handling.md)
 
