@@ -25,6 +25,10 @@ Goals:
 - [Walkthru: JSON.parse](lessons/json-walkthru.md)
 - [Error Handling](lessons/error-handling.md)
 
+## Day 2
+
+- [Loops](lessons/loops.md)
+
 ## Week 2: Typescript Programming
 
 Goals:
