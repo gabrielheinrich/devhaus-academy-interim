@@ -29,6 +29,10 @@ Goals:
 
 - [Loops](lessons/loops.md)
 
+## Day 3
+
+- [Testing](lessons/testing.md)
+
 ## Week 2: Typescript Programming
 
 Goals:
