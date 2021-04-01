@@ -33,6 +33,11 @@ Goals:
 
 - [Testing](lessons/testing.md)
 
+## Day 4
+
+- [Promises](lessons/promises.md)
+- [Installable CLI](lessons/node-cli.md)
+
 ## Week 2: Typescript Programming
 
 Goals:
