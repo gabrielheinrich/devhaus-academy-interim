@@ -108,6 +108,10 @@ For example a youtube video:
 
 [Cheatsheet](https://docs.emmet.io/cheat-sheet/)
 
+## Deveveloper Tools
+
+Shortcut: Win: `Ctrl+Shift+I`, Mac: `Cmd+Option+I` (it might also be J, please check individually)
+
 ## CSS
 
 Cascading Style Sheet: add styling to a webpage
@@ -283,10 +287,11 @@ You are tasked to work in pairs to create a blog post informing people about int
 
 ## Interesting articles and other ressources
 
-* [](https://css-tricks.com/styling-underlines-web/)
-* [](https://css-tricks.com/almanac/properties/t/text-decoration/)
-* [](https://css-tricks.com/more-control-over-text-decoration/)
-* [](https://css-tricks.com/almanac/properties/b/box-shadow/)
-* [](https://www.youtube.com/watch?v=SlrzXQoVpK4)
-* [](https://css-tricks.com/make-a-smooth-shadow-friend/)
-* [](https://css-tricks.com/breaking-css-box-shadow-vs-drop-shadow/)
+* [Styling Underlines](https://css-tricks.com/styling-underlines-web/)
+* [Text Decoration 1](https://css-tricks.com/almanac/properties/t/text-decoration/)
+* [Text Decoration 2](https://css-tricks.com/more-control-over-text-decoration/)
+* [box-shadow](https://css-tricks.com/almanac/properties/b/box-shadow/)
+* [Box Shadow Secret Revealed](https://www.youtube.com/watch?v=SlrzXQoVpK4)
+* [Smoothe Box Shadows](https://css-tricks.com/make-a-smooth-shadow-friend/)
+* [box-shadow vs. drop-shadow](https://css-tricks.com/breaking-css-box-shadow-vs-drop-shadow/)
+* [Different HTML & CSS Quizes](https://learn-the-web.algonquindesign.ca/activities/)
