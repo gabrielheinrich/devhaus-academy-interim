@@ -9,6 +9,19 @@ Disclaimer: This is just a quick interim website, until we can move into the rea
 - [Discord](https://discord.com/channels/665641579368677395/819211634865733643)
 - [Journaling Prompts](journal/journal.md)
 
+## Week 4: One Page Love
+
+Goals:
+
+- Be able to destructure content blocks and rebuild them
+- understand and use HTML elements 
+- interact with websites using JavaScript
+- create own content blocks and wireframes using Figma and rebuild them with HTML
+
+### Day 1: Get Hyper with Hypertext
+
+- [Intro HTML & CSS](lessons/html_intro.md)
+
 ## Week 3: Typescript Programming II
 
 Goals:
