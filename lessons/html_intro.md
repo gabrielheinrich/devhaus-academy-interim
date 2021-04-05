@@ -104,6 +104,57 @@ For example a youtube video:
 ></iframe>
 ```
 
+### Entities: Special Characters
+
+```html
+<p>Less than sign: &lt; and greater than: &gt;</p>
+
+<p>Copyright &copy;</p>
+
+<p>Smiley: &#128512;</p>
+```
+
+Output:
+
+<p>Less than sign: &lt; and greater than: &gt;</p>
+
+<p>Copyright &copy;</p>
+
+<p>Smiley: &#128512;</p>
+
+### HTML Document Structure
+
+```html
+<!DOCTYPE html>
+<html>
+  <head></head>
+  <body></body>
+</html>
+```
+
+`!DOCTYPE html`: Specify that this is indeed an html file
+
+`head`: contains meta information. Often also contains a link to a
+stylesheet or javascript
+
+```html
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My First Website</title>
+  <link rel="stylesheet" href="styles.css" />
+  <script src="index.js" defer></script>
+</head>
+```
+
+`body`: Visible content of the website
+
+```html
+<body>
+  <h1>Hello World</h1>
+</body>
+```
+
 ## Emmet
 
 [Cheatsheet](https://docs.emmet.io/cheat-sheet/)
