@@ -346,3 +346,5 @@ You are tasked to work in pairs to create a blog post informing people about int
 * [Smoothe Box Shadows](https://css-tricks.com/make-a-smooth-shadow-friend/)
 * [box-shadow vs. drop-shadow](https://css-tricks.com/breaking-css-box-shadow-vs-drop-shadow/)
 * [Different HTML & CSS Quizes](https://learn-the-web.algonquindesign.ca/activities/)
+* [Pseudo Selectors and Pseudo Elements](https://www.w3schools.com/css/css_pseudo_classes.asp)
+* [::before & ::after](https://codersblock.com/blog/diving-into-the-before-and-after-pseudo-elements/?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_292)
