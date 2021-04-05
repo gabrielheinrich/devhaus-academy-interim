@@ -12,7 +12,7 @@ To get started:
 ```html
 <!-- regular tag -->
 
-<tagname attribute="arrtibute-value">Contect</tagname>
+<tagname attribute="arrtibute-value">Content</tagname>
 
 <!-- if a tag has no content, 
 tags can be converted into self-closing tags -->
