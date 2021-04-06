@@ -4,7 +4,10 @@ Boxes all the way down
 
 ## Resources
 
-[CSS Katas Repository](https://github.com/gabrielheinrich/css-katas)
+- [Box Shadow Intro](https://www.youtube.com/watch?v=-JNRQ5HjNeI)
+- [Position Property Part 1](https://www.youtube.com/watch?v=kejG8G0dr5U)
+- [Position Property Part 2](https://www.youtube.com/watch?v=Rf6zAP4YnZA&list=PLU7jC5WGSaXs2cltjCdnqJRx5FGrXuA5a&index=5)
+- [Choosing the right CSS Unit](https://www.youtube.com/watch?v=N5wpD9Ov_To&list=PLU7jC5WGSaXs2cltjCdnqJRx5FGrXuA5a&index=4)
 
 ## CSS Box Model
 
