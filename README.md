@@ -28,6 +28,11 @@ Goals:
 
 ## Week 3: Typescript Programming II
 
+### Day 3:
+
+- [Plan for the day](lessons/w4_wed.md)
+- [Flexbox](lessons/flexbox.md)
+
 Goals:
 
 - Become able to solve 7 kyu Katas
