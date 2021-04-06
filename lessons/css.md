@@ -303,11 +303,11 @@ Every element has a static position by default, so the element will stick to the
 
 #### Relative
 
-An element’s original position remains in the flow of the document, just like the `static` value. But now `left`/`right`/`top`/`bottom`/`z-index` will work. The positional properties “nudge” the element from the original position in that direction.
+An element’s original position remains in the flow of the document, just like the `static` value. Parent container of ancestor with `position: absolute`.
 
 #### Absolute
 
-The element is removed from the flow of the document and other elements will behave as if it’s not even there whilst all the other positional properties will work on it. An absolute positioned element is always relative to the next `postion: relative` element in the DOM tree.
+The element is removed from the flow of the document and other elements will behave as if it’s not even there whilst all the other positional properties will work on it. An absolute positioned element is always relative to the closest ancestor with `postion: relative` in the DOM tree. But now `left`/`right`/`top`/`bottom`/`z-index` will work. The positional properties “nudge” the element from the original position in that direction.
 
 #### Fixed
 
