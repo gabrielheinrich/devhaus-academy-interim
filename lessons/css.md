@@ -8,6 +8,8 @@ Boxes all the way down
 - [Position Property Part 1](https://www.youtube.com/watch?v=kejG8G0dr5U)
 - [Position Property Part 2](https://www.youtube.com/watch?v=Rf6zAP4YnZA&list=PLU7jC5WGSaXs2cltjCdnqJRx5FGrXuA5a&index=5)
 - [Choosing the right CSS Unit](https://www.youtube.com/watch?v=N5wpD9Ov_To&list=PLU7jC5WGSaXs2cltjCdnqJRx5FGrXuA5a&index=4)
+- [box-sizing Property](https://www.instagram.com/p/CJpLbgUAbyg/)
+- [other important properties](https://www.instagram.com/p/B_SekpPjbtf/)
 
 ## CSS Box Model
 
