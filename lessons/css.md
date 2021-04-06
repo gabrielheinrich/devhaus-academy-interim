@@ -20,7 +20,7 @@ The width and height of a box can be measured in two ways: Either as the
 **content-box**, which is only the most inner box (containg text, an image or
 child elements) or as the **border-box**, which is the content-box + padding +
 border. border-box is much more intuitive, as it is the area that the background
-color will cover, hover the default in CSS is the content box. You can change h
+color will cover.
 
 ```css
 * {
