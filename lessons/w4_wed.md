@@ -14,6 +14,13 @@
 
 1. Look through the beautiful pages of [One Page Love](https://onepagelove.com/) and find your favorite button. Inspect and recreate it. Be ready to present what is special about the button and a learning you had while recreating it (e.g. new property).
 
+**Button Styling Ressources**
+
+- [6 easy and cool button :hover animations](https://www.fabriziovanmarciano.com/button-styles/) (uses transform/transition so it goes well with the following video)
+- [Animating in CSS using transform/transition and new @keyframe-animations](https://www.youtube.com/watch?v=48Gr8vJk_t0&t=1s)
+- [Box-Shadow Generator](https://www.cssmatic.com/box-shadow)
+- [Styling a Button Step by Step](https://usabilitypost.com/2012/01/10/pressed-button-state-with-css3/#)
+
 2. Let Wes be your instructor for today. He will teach you about the marvelous [Flexbox](https://flexbox.io/) . Once you are done with the videos 1-12 (feel free to skip Tutorial 13), try to apply your newly learned skills at the games linked in the [Flexbox Reference](./flexbox.md)
    before you takle Wes' Tutorials 14-20
 
