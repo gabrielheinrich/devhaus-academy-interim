@@ -21,7 +21,7 @@
 - [Box-Shadow Generator](https://www.cssmatic.com/box-shadow)
 - [Styling a Button Step by Step](https://usabilitypost.com/2012/01/10/pressed-button-state-with-css3/#)
 
-2. Let Wes be your instructor for today. He will teach you about the marvelous [Flexbox](https://flexbox.io/) . Once you are done with the videos 1-12 (feel free to skip Tutorial 13), try to apply your newly learned skills at the games linked in the [Flexbox Reference](/flexbox.md)
+2. Let Wes be your instructor for today. He will teach you about the marvelous [Flexbox](https://flexbox.io/) . Once you are done with the videos 1-12 (feel free to skip Tutorial 13), try to apply your newly learned skills at the games linked in the [Flexbox Reference](lessons/flexbox.md)
    before you takle Wes' Tutorials 14-20
 
 3. Come back at 16:40 for a wrap up
