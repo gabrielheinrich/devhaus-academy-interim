@@ -26,12 +26,12 @@ Goals:
 
 - [CSS - Box Modell, Positioning & Sizing](lessons/css.md)
 
-## Week 3: Typescript Programming II
-
 ### Day 3:
 
 - [Plan for the day](lessons/w4_wed.md)
 - [Flexbox](lessons/flexbox.md)
+
+## Week 3: Typescript Programming II
 
 Goals:
 
