@@ -8,6 +8,7 @@ Disclaimer: This is just a quick interim website, until we can move into the rea
 - [Zoom](https://us02web.zoom.us/j/8611564454?pwd=aFJJVzU1bzdpVTMzTDA2eTJ6cmJpQT09)
 - [Discord](https://discord.com/channels/665641579368677395/819211634865733643)
 - [Journaling Prompts](journal/journal.md)
+- [Miro Board](https://miro.com/welcomeonboard/sApayPdTTXEtt2k5hXbsRHjuhJ9cNpOe2TmxsW5w8M0timu6oR5MO1pkPCyOnY6t)
 
 ## Week 4: One Page Love
 
@@ -30,6 +31,10 @@ Goals:
 
 - [Plan for the day](lessons/w4_wed.md)
 - [Flexbox](lessons/flexbox.md)
+
+### Day 4:
+
+- [JavaScript with HTML](lessons/dom-md)
 
 ## Week 3: Typescript Programming II
 
