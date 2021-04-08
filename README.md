@@ -34,7 +34,7 @@ Goals:
 
 ### Day 4:
 
-- [JS DOM API - Making HTML interactive](lessons/dom-md)
+- [JS DOM API - Making HTML interactive](lessons/dom.md)
 
 ## Week 3: Typescript Programming II
 
