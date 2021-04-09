@@ -20,7 +20,7 @@
 - Skip frameworks
 - Browser Support
 
-![Grid Example](../ressources/grid.png)
+![Grid Example](../resources/grid.png)
 
 ```html
 <!-- GRID -->
@@ -61,7 +61,7 @@
 </div>
 ```
 
-![Without CSS](../ressources/without-css.png)
+![Without CSS](../resources/without-css.png)
 
 ```css
 .container {
@@ -71,7 +71,7 @@
 }
 ```
 
-![With CSS](../ressources/with-css.png)
+![With CSS](../resources/with-css.png)
 
 ### Defining a grid
 
