@@ -36,6 +36,10 @@ Goals:
 
 - [JS DOM API - Making HTML interactive](lessons/dom.md)
 
+### Day 5:
+
+- [Grid - Like Flexbox, but on steroids](lessons/grid.md)
+
 ## Week 3: Typescript Programming II
 
 Goals:
