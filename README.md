@@ -10,6 +10,24 @@ Disclaimer: This is just a quick interim website, until we can move into the rea
 - [Journaling Prompts](journal/journal.md)
 - [Miro Board](https://miro.com/welcomeonboard/sApayPdTTXEtt2k5hXbsRHjuhJ9cNpOe2TmxsW5w8M0timu6oR5MO1pkPCyOnY6t)
 
+## Week 5: One Page Love II
+
+### Day 1
+- [Rebuilding UI Elements](lessons/w5_d1.md)
+
+### Day 2
+- [More JavaScript Interactions](lessons/html_and_js.md)
+- [Intro Forms](lessons/forms.md)
+
+### Day 3
+- [Form Validation](lessons/forms.md)
+
+### Day 4
+- Making Websites Responsive with [Media Queries](lessons/media_queries.md)
+
+### Day 5 
+- [Rebuilding Dropbox](lessons/rebuild_project.md)
+
 ## Week 4: One Page Love
 
 Goals:
@@ -49,22 +67,22 @@ Goals:
 - Be able to write loops
 - Write your own command line tools
 
-## Day 1
+### Day 1
 
 - [Review Katas](lessons/review-katas.md)
 - [Visual Execution](lessons/visual-execution.md)
 - [Walkthru: JSON.parse](lessons/json-walkthru.md)
 - [Error Handling](lessons/error-handling.md)
 
-## Day 2
+### Day 2
 
 - [Loops](lessons/loops.md)
 
-## Day 3
+### Day 3
 
 - [Testing](lessons/testing.md)
 
-## Day 4
+### Day 4
 
 - [Promises](lessons/promises.md)
 - [Installable CLI](lessons/node-cli.md)
