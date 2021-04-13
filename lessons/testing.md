@@ -11,6 +11,8 @@
 
 #### Manual testing
 
+x
+
 - Done by developer / tester
 - Manual work
 - Error Prone
