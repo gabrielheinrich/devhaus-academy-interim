@@ -44,6 +44,12 @@ Further we will apply our HTML manipulation using JavaScript to further enhance 
 
 The `for` attribute of the `label` tag should be equal to the `id` attribute of the `input` element to bind them together.
 
+```html
+<input type="text" id="favorite-plant" /> Favorite Plant
+
+<label for="favorite-plant" /> Number of Cups in my Cupboard
+```
+
 ## JS Retrieval - String Methods
 
 In pairs, complete any of the following katas. Be prepared to present your answer.
