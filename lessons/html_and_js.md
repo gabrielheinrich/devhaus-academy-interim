@@ -21,7 +21,7 @@ Further we will apply our HTML manipulation using JavaScript to further enhance 
 ## HTML Retrieval
 
 - Which values can you set on the `display` property?
-- What is the difference between `display: hidden` and `display: none`?
+- What is the difference between `display: hidden` and `visibility: hidden`?
 - What is the difference between the selectors `body.is-dark` and `body .is-dark`?
 
 ## Let's get in Formation - HTML Forms
