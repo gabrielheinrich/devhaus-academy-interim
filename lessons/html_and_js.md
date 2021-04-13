@@ -64,6 +64,8 @@ In pairs, complete any of the following katas. Be prepared to present your answe
 - [A Complete Guide to Dark Mode on the Web](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/)
 - [8 Tips for Dark Theme Design](https://uxplanet.org/8-tips-for-dark-theme-design-8dfc2f8f7ab6)
 - [Example: Newsletter Subscription Box](https://initiatorcreator.com/)
+- [Example: Grid Feature Box (Channels, Slack Connect...)](https://slack.com/intl/de-de/features)
+- [Example: Nested Grids](https://designcode.io/)
 - [Button Styling](https://www.youtube.com/watch?v=iwoIuyRHy88)
 
 ## Outlook: Wednesday
