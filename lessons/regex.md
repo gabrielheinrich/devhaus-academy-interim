@@ -95,3 +95,105 @@ CaA
 cAa
 4tG
 ```
+
+## Video
+
+<iframe src="https://docs.google.com/presentation/d/14CHpffJ8KOeENMpvM5WfgJcyxYik8JlW2-uPmYG1eu0/embed?start=false&loop=false" frameborder="0" class="google-slides" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" height="600"></iframe>
+
+## Outline
+
+- Unicode code point escapes: \\u { }
+- The Unicode flag: u
+- Character ranges: [ - ]
+- Shorthand character class escapes: e.g. \\d
+- Control character escapes: e.g. \\n
+- Repetition ranges: {min,max}
+- Grouping: ( )
+- Quantifiers: + \* ?
+
+## Resources
+
+- [Unicode Table](https://unicode-table.com/en/)
+- [RegEx101](https://regex101.com/)
+
+## Challenges
+
+<h3 class="challenge" id="regex-8" data-points="1">RegEx: Match a Sequence</h3>
+
+Using RegEx101, construct three different regular expressions using ranges. Each expression should match all the non-space characters of either the first, second, or third line in the following string; each should not match any characters from other lines.
+
+```
+the quick brown fox jumped over the lazy dog
+THE QUICK BROWN FOX JUMPED OVER THE LAZY DOG
+0123456789
+!@#$%^&*()_+=-~
+< ><	>,.{}[]
+ÜÖÄßüöä
+```
+
+<h3 class="challenge" id="regex-9" data-points="1">RegEx: Match a Sequence</h3>
+
+Using RegEx101, construct a regular expression that will capture all the non-space and non-punctuation characters from the following string. Hint: the language is Georgian.
+
+```
+ლორემ იფსუმ დოლორ სით ამეთ, სენსერით სუავითათე ყუო ნე. ეა ნათუმ ფოსთულანთ სცრიფსერით სით. სალე ულლუმ რეფორმიდანს უთ ჰის. მუნერე მელიუს მელიორე ან იუს, ინ სეა ერუდითი ფართიენდო ინცორრუფთე. ნო ველ მაზიმ ცჰორო.
+```
+
+<h3 class="challenge" id="regex-10" data-points="1">RegEx: Match a Sequence</h3>
+
+Using RegEx101, construct a regular expression using shorthand character classes that matches every non-space character in all lines of the following string. Make sure you match by line, not just by character; this means you should see each line match as a whole, not just each individual character.
+
+```
+28aP
+01tT
+87xS
+26pL
+63fU
+```
+
+<h3 class="challenge" id="regex-11" data-points="1">RegEx: Match a Sequence</h3>
+
+Using RegEx101, construct two different regular expressions using shorthand character classes. Each one should either only match the numbers or the whitespace characters in the following string.
+
+```
+1 sheep, 2 sheep, 3 sheep, 4 sheep, 5 sheep, 6 sheep, 7 sheep, 8 sheep, 9 sheep, 10 sheep
+
+the whitespace class include newlines
+and of course forget		tabs too
+```
+
+<h3 class="challenge" id="regex-12" data-points="1">RegEx: Match a Sequence</h3>
+
+Using RegEx101, construct a regular expression that matches the first three lines in the following string. Assume the personal ID (part before '@') and the domain name (part after '@') can be arbitrarily long but must only be made up of word characters ' \\w '. Assume the suffix ('org' / 'com' / etc...) should be between 2 and 4 characters long and must only be made of lower-case letters.
+
+There should be no partial matches on the other lines!
+
+```
+weofFKJHGKHShgdfkghdkfghkfh@sdoifj.com
+BlUR_Gh@gmail.org
+asdf_523@124453129837129874938754.zh
+
+tomson@out#tag.se
+megaman@mommy.s_eo
+bigboy-@bumble.bee
+tommy@gun.SQL
+pase_12pf@yahoo.sucks
+```
+
+<h3 class="challenge" id="regex-13" data-points="1">RegEx: Match a Sequence</h3>
+
+Using RegEx101, construct a regular expression that matches the first four lines of the following string. Do not use the range syntax ' {min,max} '; use only quantifiers.
+
+It's okay this time if you get partial matches on the other lines.
+
+```
+/
+/a/path/to/a/index.html
+/2014-12-05/window.html
+/path_with_underscores/component.html
+
+/Post-01/example.html.html
+/Post-01/example.html%##!
+/Post-01/example
+$$@&/Post-01/example.html
+```
