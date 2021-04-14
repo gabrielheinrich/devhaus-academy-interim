@@ -4,8 +4,7 @@
 
 [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
-[Async
-Await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)
+[Async Await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)
 
 Promises are javascript objects that symbolize asynchronous operations.
 During an asynchronous operation one of two events can happen:

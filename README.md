@@ -13,19 +13,25 @@ Disclaimer: This is just a quick interim website, until we can move into the rea
 ## Week 5: One Page Love II
 
 ### Day 1
+
 - [Rebuilding UI Elements](lessons/w5_d1.md)
 
 ### Day 2
+
 - [More JavaScript Interactions](lessons/html_and_js.md)
 - [Intro Forms](lessons/forms.md)
 
 ### Day 3
+
 - [Form Validation](lessons/forms.md)
+- [Regular Expressions](lessons/regex.md)
 
 ### Day 4
+
 - Making Websites Responsive with [Media Queries](lessons/media_queries.md)
 
-### Day 5 
+### Day 5
+
 - [Rebuilding Dropbox](lessons/rebuild_project.md)
 
 ## Week 4: One Page Love
