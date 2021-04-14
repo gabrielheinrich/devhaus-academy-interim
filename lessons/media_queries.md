@@ -1,5 +1,7 @@
 # Media Queries & Responsive Web Design
 
+[Media Queries Repository](https://github.com/valeriakori/media-queries)
+
 ## The meta viewport tag
 
 The HTML boilerplate created with emmet contains the following meta tag:
@@ -46,7 +48,11 @@ The styles in the `over500.css` stylesheet are only being applied if the viewpor
 
 ### Picking the right breakpoints
 
-Responsive Web Design is an art, not a science. Many times you have to go through trial and error, do mockups and try different sizes of elements before determining the ideal breakpoints. If needed, set individual breakpoints for certain elements.
+Responsive Web Design is an art, not a science. Many times you have to go through trial and error, resizing the window many times, do mockups and try different sizes of elements before determining the ideal breakpoints. If needed, set individual breakpoints for certain elements.
+
+[Example](https://www.youtube.com/watch?v=17XgkPFq6eY) of though process while picking breakpoints.
+
+Note that the scroll bar takes up 12-20px of your viewport!
 
 Generally we can use the following setup for most of our projects:
 
@@ -79,6 +85,22 @@ or respectively in CSS
 --- 
 
 ## Exercises
+
+**Responsive Grid**
+- create 3 breakpoints: max 500px, min 501px and min 800px
+- set the grid column count to 2, 3 and 6 columns according to the breakpoints
+
+**Bonus**
+- adjust the images using the `justify-content`and `grid-gap` properties. You can refer to the original design by checking the developer tools on the [Figma website](https://www.figma.com/pricing/)
+
+
+**Responsive Navigation Bar (Faded Exercise)**
+
+Incoorporate a Navigation Bar that switches to a burger menu on small screens.
+
+**Bonus**
+- add the possibility to toggle the navigation drawer on mobile devices
+
 **Flexbox Layout**
 - [Flexbox Review Part 1](https://www.youtube.com/watch?v=iazYC5ffw8Y)
 - [Flexbox Review Part 2](https://www.youtube.com/watch?v=JepRvCVL2WI)
