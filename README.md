@@ -10,6 +10,28 @@ Disclaimer: This is just a quick interim website, until we can move into the rea
 - [Journaling Prompts](journal/journal.md)
 - [Miro Board](https://miro.com/welcomeonboard/sApayPdTTXEtt2k5hXbsRHjuhJ9cNpOe2TmxsW5w8M0timu6oR5MO1pkPCyOnY6t)
 
+## Week 6: One Page Love III (Vue Intro & Project)
+
+## Day 1
+
+- [Intro to Vue](lessons/vue-intro.md)
+
+## Day 2
+
+- props & v-vor
+
+## Day 3
+
+- v-on, v-if & computed
+
+## Day 4
+
+- Project
+
+## Day 5
+
+- Project
+
 ## Week 5: One Page Love II
 
 ### Day 1
