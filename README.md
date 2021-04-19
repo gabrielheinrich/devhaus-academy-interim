@@ -1,9 +1,5 @@
 # Devhaus Leipzig Academy
 
-Disclaimer: This is just a quick interim website, until we can move into the real learning plattform
-
-## Quicklinks
-
 - [Timetable](https://calendar.google.com/calendar/embed?src=b1tvckj2cnj6jn52d7nppa5rm4%40group.calendar.google.com&ctz=Europe%2FBerlin)
 - [Zoom](https://us02web.zoom.us/j/8611564454?pwd=aFJJVzU1bzdpVTMzTDA2eTJ6cmJpQT09)
 - [Discord](https://discord.com/channels/665641579368677395/819211634865733643)
@@ -12,23 +8,23 @@ Disclaimer: This is just a quick interim website, until we can move into the rea
 
 ## Week 6: One Page Love III (Vue Intro & Project)
 
-## Day 1
+### Day 1
 
 - [Intro to Vue](lessons/vue-intro.md)
 
-## Day 2
+### Day 2
 
-- props & v-vor
+- props & v-for
 
-## Day 3
+### Day 3
 
 - v-on, v-if & computed
 
-## Day 4
+### Day 4
 
 - Project
 
-## Day 5
+### Day 5
 
 - Project
 
