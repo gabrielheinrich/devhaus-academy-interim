@@ -14,7 +14,7 @@
 
 ### Day 2
 
-- props & v-for
+- [Directives and Vuetify](lessons/w6_d2.md)
 
 ### Day 3
 
