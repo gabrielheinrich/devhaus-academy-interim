@@ -17,6 +17,7 @@
 - props & v-for
 - [Recording Morning](https://us02web.zoom.us/rec/share/hJcdJKNFIIrDfo-ViXpmydnAgeTDIietYeK77IMWbPN8dEEH8Hp_sCPV7e8AzTRu.Jk8uj_LqxmVzEGfX?startTime=1618905018000)
 - [Recording Afternoon](https://us02web.zoom.us/rec/share/6lQoly6iGNQ3ItbEORpTdqBUhpQbRNHa_iRW-nm4uRmsDWOIrmr3stxagf_pb-BZ.AA7Ea0ogQln5R_K9?startTime=1618920727000)
+- [Directives and Vuetify](lessons/w6_d2.md)
 
 ### Day 3
 
