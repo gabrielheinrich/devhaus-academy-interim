@@ -6,6 +6,22 @@
 - [Journaling Prompts](journal/journal.md)
 - [Miro Board](https://miro.com/welcomeonboard/sApayPdTTXEtt2k5hXbsRHjuhJ9cNpOe2TmxsW5w8M0timu6oR5MO1pkPCyOnY6t)
 
+## Week 7: Sparks: Building Web Application UIs in Vue
+
+
+The next 2 weeks you will add to your existing Vue.js knowledge to be able to create even more interactive web applications. You will be creating a note taking app that you can customize with your own features.
+
+Goals:
+
+- sketch your apps using wireframes
+- phrase user stories/tickets to organize your features inside a project 
+- create forms and use input data in your app
+- create user interfaces and capture user interactions
+
+### Day 1
+
+- [Vue Review](lessons/vue-review.md)
+
 ## Week 6: One Page Love III (Vue Intro & Project)
 
 ### Day 1
