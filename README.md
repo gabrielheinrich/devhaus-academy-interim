@@ -22,6 +22,10 @@ Goals:
 
 - [Vue Review](lessons/vue-review.md)
 
+### Day 2
+
+- [Fetching Data with Insomnia](lessons/insomnia.md)
+
 ## Week 6: One Page Love III (Vue Intro & Project)
 
 ### Day 1
