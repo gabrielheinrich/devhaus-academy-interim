@@ -8,3 +8,8 @@ Let's start the week of by reviewing our Vue.js knowledge and getting back into 
 
 1. [Vue Review](https://miro.com/app/board/o9J_lOtH6OM=/) @Miro
 2. [Vue Coding Katas](https://codepen.io/collection/rxOeoW) @CodePen
+3. Router Kata
+
+- Create a Vue project with [vue-router](https://router.vuejs.org/installation.html)
+- Create the views `Contact.vue` and `Blog.vue`
+- Create a global navigation inside `App.vue` that routes between the home, contact and blog page
