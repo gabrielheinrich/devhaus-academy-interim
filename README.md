@@ -24,7 +24,7 @@ Goals:
 ### Day 2
 
 - [Fetching Data with Insomnia](lessons/insomnia.md)
-- [Fetchding Data with Javascript](https://github.com/devhausleipzig/vue-fetch)
+- [Fetching Data with Javascript](https://github.com/devhausleipzig/vue-fetch)
 
 ## Week 6: One Page Love III (Vue Intro & Project)
 
