@@ -26,6 +26,10 @@ Goals:
 - [Fetching Data with Insomnia](lessons/insomnia.md)
 - [Fetching Data with Javascript](https://github.com/devhausleipzig/vue-fetch)
 
+### Day 3
+
+- [Tailwind CSS](lessons/tailwind.md)
+
 ## Week 6: One Page Love III (Vue Intro & Project)
 
 ### Day 1
