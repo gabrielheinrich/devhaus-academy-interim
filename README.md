@@ -29,6 +29,7 @@ Goals:
 ### Day 3
 
 - [Tailwind CSS](lessons/tailwind.md)
+- [Spark Repository](https://github.com/devhausleipzig/spark)
 
 ## Week 6: One Page Love III (Vue Intro & Project)
 
