@@ -20,7 +20,11 @@ Fetch some true/false questions from the [Trivia API](https://opentdb.com/api_co
 
 ---
 
-Add the [wikipedia package](https://www.npmjs.com/package/wikipedia) to your project. Create an input field and fetch the page of the input value. Think about edge cases like error handling when no pages are returned as well as displaying multiple responses to your request.
+Add the [wikipedia package](https://www.npmjs.com/package/wikipedia) to your project. Create an input field and fetch the page of the input value.
+**Bonus:**
+
+- Implement loading state
+- Think about edge cases like error handling when no pages are returned as well as displaying multiple responses to your request.
 
 ## Kata 3 - Text to L33T5P34K
 
