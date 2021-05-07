@@ -153,6 +153,8 @@ us locale: 'en-US'
 5/7/2021
 ```
 
+Add 2 buttons to toggle between the german and english locale.
+
 [Locale Date String Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString)
 
 **Bonus:** Create a [dropdown menu](https://vuetifyjs.com/en/components/selects/#usage) to select between different language options.
