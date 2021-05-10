@@ -12,9 +12,9 @@
 
 3. Set createdAt and updatedAt
 
-- Normally this will be set by the Backend, but for now we will do this locally
-- You can use `new Date()` to get the current time
-- Make sure that both createdAt and updatedAt are set to the exact same timestamp
+   - Normally this will be set by the Backend, but for now we will do this locally
+   - You can use `new Date()` to get the current time
+   - Make sure that both createdAt and updatedAt are set to the exact same timestamp
 
 4. Validate the title input (disallow empty title and show hint)
 
