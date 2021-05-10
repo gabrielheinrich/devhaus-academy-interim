@@ -8,7 +8,7 @@
 
 ## Week 8: Spark II: Building Web Application UIs in Vue
 
-# Day 1
+### Day 1
 
 - [Create Refinement Challenges](lessons/spark-create.md)
 
