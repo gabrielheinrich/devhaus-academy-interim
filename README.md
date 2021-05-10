@@ -6,7 +6,13 @@
 - [Journaling Prompts](journal/journal.md)
 - [Miro Board](https://miro.com/welcomeonboard/sApayPdTTXEtt2k5hXbsRHjuhJ9cNpOe2TmxsW5w8M0timu6oR5MO1pkPCyOnY6t)
 
-## Week 7: Spark: Building Web Application UIs in Vue
+## Week 8: Spark II: Building Web Application UIs in Vue
+
+# Day 1
+
+- [Create Refinement Challenges](lessons/spark-create.md)
+
+## Week 7: Spark I: Building Web Application UIs in Vue
 
 The next 2 weeks you will add to your existing Vue.js knowledge to be able to create even more interactive web applications. You will be creating a note taking app that you can customize with your own features.
 
