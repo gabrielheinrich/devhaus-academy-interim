@@ -12,6 +12,10 @@
 
 - [Create Refinement Challenges](lessons/spark-create.md)
 
+### Day 2 
+
+- [Delete Challanges](lessons/spark-delete.md)
+
 ## Week 7: Spark I: Building Web Application UIs in Vue
 
 The next 2 weeks you will add to your existing Vue.js knowledge to be able to create even more interactive web applications. You will be creating a note taking app that you can customize with your own features.
