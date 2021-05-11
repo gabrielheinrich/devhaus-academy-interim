@@ -14,3 +14,4 @@ This is a tricky one, since you would have to nest the delete button within the 
 - add new fields to the CreateNote view, e.g. expand the collection feature
 - add a search bar
 - add a ordered view by collections in your dashboard
+- resize the text area for the note content if the input is larger than the text area
