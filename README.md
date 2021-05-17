@@ -6,6 +6,17 @@
 - [Journaling Prompts](journal/journal.md)
 - [Miro Board](https://miro.com/welcomeonboard/sApayPdTTXEtt2k5hXbsRHjuhJ9cNpOe2TmxsW5w8M0timu6oR5MO1pkPCyOnY6t)
 
+## Week 9: RESTCRUD: Backend Engineering
+
+- fundamentals of relational databases
+- create database schemas
+- insert and query data from data base and use it in live applications
+
+### Day 1
+
+- [Intro to Databases](lessons/database_schema.md)
+
+
 ## Week 8: Spark II: Building Web Application UIs in Vue
 
 ### Day 1
