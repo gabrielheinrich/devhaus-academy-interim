@@ -100,7 +100,7 @@ A botanical garden has a name, an adress, a city it is located in and an optiona
 
 Wine-growing regions, e.g. Saale-Unstrut, Rheinhessen, Pfalz, are identified by their name, a description is optional. A vineyard is located in one region. It has a unique name, an adress, an establishement date and an owner. It optionally has a website and a phone number
 
-A grape variety (type of grape), e.g. Riesling, Spätburgunder, is identified by its name. They too have an optional description.
+A grape variety (type of grape), e.g. Riesling, Spätburgunder, is identified by its name. They too have an optional description. A wine is made from one variety. A variety can be used in multiple wines.
 
 Wines are identified by their brand name. A wine is made at one vineyard exclusively. A wine can have multiple vintages (Jahrgang), that are identified by the year. The have an optional price, rating and alcohol content.
 
