@@ -16,6 +16,10 @@
 
 - [Intro to Databases](lessons/database_schema.md)
 
+### Day 2 
+
+- [pgAdminer](lessons/database_queries.md)
+
 
 ## Week 8: Spark II: Building Web Application UIs in Vue
 
