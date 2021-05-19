@@ -16,10 +16,13 @@
 
 - [Intro to Databases](lessons/database_schema.md)
 
-### Day 2 
+### Day 2
 
-- [pgAdminer](lessons/database_queries.md)
+- [pgAdmin](lessons/database_queries.md)
 
+### Day 3
+
+- [fastify](lessons/fastify.md)
 
 ## Week 8: Spark II: Building Web Application UIs in Vue
 
@@ -27,7 +30,7 @@
 
 - [Create Refinement Challenges](lessons/spark-create.md)
 
-### Day 2 
+### Day 2
 
 - [Delete Challanges](lessons/spark-delete.md)
 
