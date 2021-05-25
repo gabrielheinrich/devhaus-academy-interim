@@ -6,6 +6,10 @@
 - [Journaling Prompts](journal/journal.md)
 - [Miro Board](https://miro.com/welcomeonboard/sApayPdTTXEtt2k5hXbsRHjuhJ9cNpOe2TmxsW5w8M0timu6oR5MO1pkPCyOnY6t)
 
+## Week 10
+
+- [Tutorial Repository](teacher-notes/tutorials.md)
+
 ## Week 9: RESTCRUD: Backend Engineering
 
 - fundamentals of relational databases
