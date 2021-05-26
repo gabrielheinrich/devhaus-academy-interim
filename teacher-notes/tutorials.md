@@ -14,6 +14,7 @@
 - [10 Modern Layouts in 1 line of CSS](https://www.youtube.com/watch?v=qm0IfG1GyZU) 20 min video
 - [Build a Modern Responsive Website](https://www.youtube.com/watch?v=p0bGHP-PXD4) 2h video
 - [Tailwind CSS From zero to Production Course](https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0)
+- [GSAP Scrol Trigger Code Pens](https://codepen.io/collection/DkvGzg)
 
 ### Animations and Interaction
 
