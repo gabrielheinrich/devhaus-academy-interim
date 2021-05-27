@@ -9,6 +9,7 @@
 ## Week 10
 
 - [Tutorial Repository](teacher-notes/tutorials.md)
+- [Students-Mentors Introductions](lessons/mentoring_session.md)
 
 ## Week 9: RESTCRUD: Backend Engineering
 
